@@ -1,2 +1,7 @@
 # Three-of-a-kind-probability
-Three of a kind probability
+
+   計算任選五張撲克牌中, 得到三條的機率
+
+   數學機率為
+     C(13,1)*C(4,3)*C(12,2)*4*4/C(52,5) = 0.0211285
+
